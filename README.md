@@ -1,2 +1,1 @@
-# HairTrimmerPrankAds
-app-ads.txt file for Hair Trimmer Prank App
+google.com, pub-7631925161193029, DIRECT, f08c47fec0942fa0
